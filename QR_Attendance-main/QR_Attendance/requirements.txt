@@ -1,8 +1,8 @@
-1. MyQR    - pip install MyQR
+MyQR
 
-2. tkinter - pip install tk-tools 
-           - pip install tk
+tk-tools 
+tk
 
-3. pyzbar  - pip install pyzbar
+pyzbar
 
-4. cv2     - pip install opencv-python
+opencv-python
