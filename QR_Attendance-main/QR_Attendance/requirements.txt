@@ -3,8 +3,5 @@ tk-tools
 tk
 pyzbar
 opencv-python
-Flask==1.1.2  # Assuming you're using Flask; adjust accordingly
-gunicorn
-# Other dependencies...
-
+gunicorn==20.0.4  
 
