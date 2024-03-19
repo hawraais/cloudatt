@@ -1,8 +1,7 @@
 MyQR
-
 tk-tools 
 tk
-
 pyzbar
-
 opencv-python
+gunicorn==20.0.4
+
